@@ -1,6 +1,6 @@
 # Link-Bypasser-Bot
 
-a Telegram Bot (with Site) that can Bypass Ad Links, Generate Direct Links and Jump Paywalls. see the Bot in Action [@BypassLinkBot](https://t.me/BypassLinkBot) or try it on [Replit](https://replit.com/@bipinkrish/Link-Bypasser#app.py)
+a Telegram Bot (with Site) that can Bypass Ad Links, Generate Direct Links and Jump Paywalls. see the Bot in Action [@BypassLinkBot](https://t.me/MrkillerBypassLinkbot) or try it on [Replit](https://replit.com/@bipinkrish/Link-Bypasser#app.py)
 
 ---
 
